@@ -153,12 +153,6 @@ customer-churn-prediction/
 
 [🚀 Try the Live App](https://customer-churn-prediction-k6hay2numlmtnmdbslrfk5.streamlit.app/)
 
-▶️ Run Locally
-
-Clone the repository:
-
-git clone https://github.com/hady-mohamed-commits/customer-churn-prediction.git
-
 Navigate to the project:
 
 cd customer-churn-prediction
