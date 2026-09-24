@@ -149,6 +149,10 @@ customer-churn-prediction/
 
 ⸻
 
+## 🌐 Live Demo
+
+[🚀 Try the Live App](https://customer-churn-prediction-k6hay2numlmtnmdbslrfk5.streamlit.app/)
+
 ▶️ Run Locally
 
 Clone the repository:
@@ -176,3 +180,5 @@ Hady Mohamed
 AI & Machine Learning Developer
 
 Built as an end-to-end Machine Learning project combining model development, evaluation, deployment, and web application development.
+
+
